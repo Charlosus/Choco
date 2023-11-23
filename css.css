@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;1,700&display=swap");
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -17,6 +18,7 @@
 }
 body {
   width: 100vw;
+  font-family: Montserrat;
 }
 section {
   width: 100vw;
@@ -49,7 +51,6 @@ section {
 }
 .hero-container-paragraf {
   max-width: 295px;
-  max-height: 72px;
 }
 .hero-paragraf {
   color: #fff;
@@ -241,10 +242,14 @@ section {
   }
   .adv-list-item {
     width: calc((100% - 64px) / 3);
+    border-right: 1px solid white;
   }
   .adv-list {
   }
   .adv-container {
     padding: 50px;
+  }
+  .adv-list-item:last-child {
+    border-right: none;
   }
 }
