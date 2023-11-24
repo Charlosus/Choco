@@ -11,6 +11,14 @@
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+article,
+aside,
+footer,
+header,
+nav,
+section {
+  display: block;
+}
 * {
   box-sizing: border-box;
   margin: 0;
