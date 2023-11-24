@@ -307,8 +307,7 @@ section {
     width: calc((100% - 64px) / 3);
     border-right: 1px solid rgba(255, 255, 255, 0.5);
   }
-  .adv-list {
-  }
+
   .adv-container {
     padding: 50px;
   }
