@@ -280,7 +280,7 @@ section {
         rgba(17, 17, 17, 0) 0%,
         rgba(17, 17, 17, 0.4) 100%
       ),
-      url(/src/images/hero_tablet-cover@2x.jpg),
+      url(./src/images/hero_tablet-cover@2x.jpg),
       lightgray -435.077px -7.879px / 282.839% 101.752%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -297,7 +297,7 @@ section {
         rgba(17, 17, 17, 0) 0%,
         rgba(17, 17, 17, 0.4) 100%
       ),
-      url(/src/images/hero_desktop_cover.jpg),
+      url(./src/images/hero_desktop_cover.jpg),
       lightgray -435.077px -7.879px / 282.839% 101.752%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -326,7 +326,7 @@ section {
         rgba(17, 17, 17, 0) 0%,
         rgba(17, 17, 17, 0.4) 100%
       ),
-      url(/src/images/hero_desktop_cover@2x.jpg),
+      url(./src/images/hero_desktop_cover@2x.jpg),
       lightgray -435.077px -7.879px / 282.839% 101.752%;
     background-size: cover;
     background-repeat: no-repeat;
